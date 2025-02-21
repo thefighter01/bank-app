@@ -1,8 +1,8 @@
 # bank-app
-# **Spring Security Architecture & Implementation**
+
 
 ## **Description**
-This project is designed to help you understand the **Spring Security architecture**, focusing on the key packages, interfaces, and classes that handle authentication and authorization in web applications. It also covers essential security topics such as **CORS, CSRF, JWT, OAuth2, password management, method-level security**, and managing **users, roles, and authorities**.
+I used this project to train myself on **Spring Security architecture**, focusing on the key packages, interfaces, and classes that handle authentication and authorization in web applications. It also covers essential security topics such as **CORS, CSRF, JWT, OAuth2, password management, method-level security**, and managing **users, roles, and authorities**.
 
 ## **Features**
 - **Authentication & Authorization** – Manage and control access within your application.
