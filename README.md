@@ -11,7 +11,6 @@ I used this project to train myself on **Spring Security architecture**, focusin
 - **Method-Level Security** – Secure specific methods using annotations like `@Secured` and `@PreAuthorize`.
 - **User & Role Management** – Comprehensive tools for managing **users, roles, and authorities**.
 
-## **Getting Started**
 ### **Prerequisites**
 - Java 17+
 - Spring Boot 3+
