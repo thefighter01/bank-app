@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efcd0f4c-ac2b-41f3-8148-65cdb6ce9681" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../design-pattern-book/chapter01/chapter01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../design-pattern-course/UML/src/main/java/com/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../design-pattern-course/UML/src/main/java/com/InternationalStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../design-pattern-course/UML/src/main/java/com/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../design-pattern-course/UML/src/main/java/com/LoggingStudentActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../design-pattern-course/UML/src/main/java/com/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../design-pattern-course/UML/src/main/java/com/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java-multithreading/java-multithreading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.mylyn/tasks.xml.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate-tutorial/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate-tutorial/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/SpringDemoOne/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/SpringDemoOne/6.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/SpringDemoOne/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/SpringTasks/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/SpringTasks/3.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/SpringTasks/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/springDemoAnnotations/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/springDemoAnnotations/4.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/springDemoAnnotations/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/springMvcDemo/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.projects/springMvcDemo/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.root/14.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.web.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.web.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.discovery.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.discovery.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.debug.core/.launches/springMvcDemo.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.equinox.p2.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.equinox.p2.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/1321453537.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/1379892005.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/1473778079.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/1680256599.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/2766837946.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/3105030375.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/3188508375.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/3330587208.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/3484555997.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/3658970146.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/3877521252.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/3995137218.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/4072652304.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/4147660959.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/46370707.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/503507022.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/646308851.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/719674838.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/750504635.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/participantsIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/participantsIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1465333494.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1465333494.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jst.jsp.core/translators/2118136797.translator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jst.jsp.core/translators/2170660689.translator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jst.jsp.core/translators/3291680131.translator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jst.jsp.core/translators/654990092.translator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.jst.jsp.core/translators/855439989.translator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.m2e.logback/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.server.core/publish/publish0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.server.core/publish/publish0.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.server.core/servers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.server.core/servers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.server.core/tmp0/publish.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.server.core/tmp0/publish.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.validation/dep.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wst.validation/dep.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/bin/com/luv2code/hibernate/demo/CreateStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/bin/com/luv2code/hibernate/demo/DeleteStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/bin/com/luv2code/hibernate/demo/PrimaryKeyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/bin/com/luv2code/hibernate/demo/QueryStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/bin/com/luv2code/hibernate/demo/ReadStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/bin/com/luv2code/hibernate/demo/UpdateStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/bin/com/luv2code/hibernate/demo/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/bin/com/luv2code/jdbc/TestJdbc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/bin/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/byte-buddy-1.12.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/hibernate-commons-annotations-5.1.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/hibernate-core-5.6.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/jandex-2.4.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/jboss-logging-3.4.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/mysql-connector-j-8.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/stax-ex-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/lib/txw2-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/src/com/luv2code/hibernate/demo/CreateStudentDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/src/com/luv2code/hibernate/demo/DeleteStudentDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/src/com/luv2code/hibernate/demo/PrimaryKeyDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/src/com/luv2code/hibernate/demo/QueryStudentDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/src/com/luv2code/hibernate/demo/ReadStudentDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/src/com/luv2code/hibernate/demo/UpdateStudentDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/src/com/luv2code/hibernate/demo/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/src/com/luv2code/jdbc/TestJdbc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hibernate-tutorial/src/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servers/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servers/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servers/.settings/org.eclipse.wst.server.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servers/Tomcat v9.0 Server at localhost-config/catalina.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servers/Tomcat v9.0 Server at localhost-config/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servers/Tomcat v9.0 Server at localhost-config/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servers/Tomcat v9.0 Server at localhost-config/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servers/Tomcat v9.0 Server at localhost-config/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servers/Tomcat v9.0 Server at localhost-config/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringCourse/cruddemo.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringCourse/thymeleafdemo.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringCourse/zzz.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/beanLifeCycle_applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/beanScope_applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/com/luv2code/springdemo/BaseballCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/com/luv2code/springdemo/BeanLifeCycleDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/com/luv2code/springdemo/BeanScopeDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/com/luv2code/springdemo/Coach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/com/luv2code/springdemo/CricketCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/com/luv2code/springdemo/FortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/com/luv2code/springdemo/HappyFortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/com/luv2code/springdemo/HelloSpringApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/com/luv2code/springdemo/MyApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/com/luv2code/springdemo/SetterDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/com/luv2code/springdemo/TrackCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/com/luv2code/springdemo/boxing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/bin/sport.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-aop-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-aop-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-aop-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-aspects-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-aspects-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-aspects-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-beans-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-beans-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-beans-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-context-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-context-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-context-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-context-indexer-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-context-indexer-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-context-indexer-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-context-support-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-context-support-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-context-support-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-core-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-core-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-core-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-expression-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-expression-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-expression-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-instrument-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-instrument-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-instrument-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-jcl-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-jcl-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-jcl-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-jdbc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-jdbc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-jdbc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-jms-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-jms-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-jms-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-messaging-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-messaging-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-messaging-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-orm-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-orm-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-orm-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-oxm-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-oxm-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-oxm-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-r2dbc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-r2dbc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-r2dbc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-test-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-test-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-test-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-tx-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-tx-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-tx-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-web-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-web-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-web-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-webflux-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-webflux-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-webflux-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-webmvc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-webmvc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-webmvc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-websocket-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-websocket-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/lib/spring-websocket-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/beanLifeCycle_applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/beanScope_applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/com/luv2code/springdemo/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/com/luv2code/springdemo/BeanScopeDemoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/com/luv2code/springdemo/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/com/luv2code/springdemo/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/com/luv2code/springdemo/FortuneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/com/luv2code/springdemo/HappyFortuneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/com/luv2code/springdemo/HelloSpringApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/com/luv2code/springdemo/MyApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/com/luv2code/springdemo/SetterDemoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/com/luv2code/springdemo/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/com/luv2code/springdemo/boxing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringDemoOne/src/sport.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/bin/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/bin/com/luv2code/springdemo/AnnotationDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/bin/com/luv2code/springdemo/BoxingCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/bin/com/luv2code/springdemo/BoxingDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/bin/com/luv2code/springdemo/Coach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/bin/com/luv2code/springdemo/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/bin/com/luv2code/springdemo/FightingCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/bin/com/luv2code/springdemo/FortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/bin/com/luv2code/springdemo/JavaConfigApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/bin/com/luv2code/springdemo/MmaCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/bin/com/luv2code/springdemo/RandomDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/bin/com/luv2code/springdemo/RandomFortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-aop-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-aop-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-aop-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-aspects-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-aspects-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-aspects-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-beans-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-beans-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-beans-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-context-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-context-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-context-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-context-indexer-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-context-indexer-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-context-indexer-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-context-support-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-context-support-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-context-support-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-core-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-core-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-core-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-expression-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-expression-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-expression-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-instrument-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-instrument-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-instrument-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-jcl-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-jcl-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-jcl-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-jdbc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-jdbc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-jdbc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-jms-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-jms-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-jms-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-messaging-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-messaging-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-messaging-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-orm-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-orm-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-orm-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-oxm-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-oxm-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-oxm-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-r2dbc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-r2dbc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-r2dbc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-test-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-test-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-test-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-tx-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-tx-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-tx-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-web-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-web-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-web-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-webflux-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-webflux-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-webflux-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-webmvc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-webmvc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-webmvc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-websocket-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-websocket-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/lib/spring-websocket-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/src/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/src/com/luv2code/springdemo/AnnotationDemoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/src/com/luv2code/springdemo/BoxingCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/src/com/luv2code/springdemo/BoxingDemoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/src/com/luv2code/springdemo/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/src/com/luv2code/springdemo/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/src/com/luv2code/springdemo/FightingCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/src/com/luv2code/springdemo/FortuneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/src/com/luv2code/springdemo/JavaConfigApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/src/com/luv2code/springdemo/MmaCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/src/com/luv2code/springdemo/RandomDemoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringTasks/src/com/luv2code/springdemo/RandomFortuneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../designPatterns/chapter01/chapter01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java-multithreading/request-params/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java-multithreading/request-params/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java-multithreading/request-params/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-section-12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bank-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../security-course-madan-reddy/sequential-processing/src/SequentialProcessing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstAnnotaionRaw/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstAnnotaionRaw/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstAnnotaionRaw/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstAnnotaionRaw/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstAnnotaionRaw/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstAnnotationServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstAnnotationServlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstServletDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstServletDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstServletDemo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstServletDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstServletDemo/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstServletDemo/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/servlet-lifecycle/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/servlet-lifecycle/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/servlet-lifecycle/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/servlet-lifecycle/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/servlet-lifecycle/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/servlet-lifecycle/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/servletconfig-servletcontext/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/servletconfig-servletcontext/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/servletconfig-servletcontext/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/servletconfig-servletcontext/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/state-management-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/state-management-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/state-management-demo/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/state-management-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/AnnotaitonBeanScopeDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/AnnotationDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/Coach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/DataBaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/FortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/HappyFortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/JavaConfigDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/RandomFortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/RestFortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/SadFortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/Sportconfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/SwimCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/SwimJavaConfigDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/com/luv2code/springdemo/TennisCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/bin/sport.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-aop-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-aop-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-aop-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-aspects-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-aspects-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-aspects-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-beans-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-beans-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-beans-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-context-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-context-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-context-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-context-indexer-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-context-indexer-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-context-indexer-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-context-support-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-context-support-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-context-support-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-core-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-core-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-core-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-expression-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-expression-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-expression-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-instrument-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-instrument-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-instrument-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-jcl-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-jcl-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-jcl-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-jdbc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-jdbc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-jdbc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-jms-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-jms-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-jms-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-messaging-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-messaging-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-messaging-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-orm-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-orm-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-orm-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-oxm-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-oxm-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-oxm-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-r2dbc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-r2dbc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-r2dbc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-test-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-test-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-test-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-tx-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-tx-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-tx-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-web-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-web-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-web-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-webflux-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-webflux-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-webflux-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-webmvc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-webmvc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-webmvc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-websocket-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-websocket-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/lib/spring-websocket-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/AnnotaitonBeanScopeDemoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/AnnotationDemoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/DataBaseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/FortuneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/HappyFortuneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/JavaConfigDemoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/RandomFortuneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/RestFortuneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/SadFortuneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/Sportconfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/SwimCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/SwimJavaConfigDemoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/com/luv2code/springdemo/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springDemoAnnotations/src/sport.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/hibernate-validator-6.2.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/hibernate-validator-annotation-processor-6.2.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/hibernate-validator-cdi-6.2.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/jakarta.el-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/jboss-logging-3.4.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-aop-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-aop-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-aop-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-aspects-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-aspects-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-aspects-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-beans-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-beans-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-beans-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-context-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-context-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-context-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-context-indexer-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-context-indexer-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-context-indexer-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-context-support-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-context-support-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-context-support-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-core-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-core-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-core-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-expression-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-expression-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-expression-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-instrument-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-instrument-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-instrument-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-jcl-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-jcl-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-jcl-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-jdbc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-jdbc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-jdbc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-jms-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-jms-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-jms-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-messaging-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-messaging-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-messaging-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-orm-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-orm-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-orm-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-oxm-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-oxm-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-oxm-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-r2dbc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-r2dbc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-r2dbc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-test-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-test-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-test-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-tx-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-tx-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-tx-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-web-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-web-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-web-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-webflux-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-webflux-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-webflux-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-webmvc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-webmvc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-webmvc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-websocket-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-websocket-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/lib/spring-websocket-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/spring-mvc-demo-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/view/customer-confirmation.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/view/customer-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/view/helloworld-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/view/helloworld.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/view/main-menu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/view/student-confirmation.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/view/student-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/build/classes/com/luv2code/springdemo/mvc/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/build/classes/com/luv2code/springdemo/mvc/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/build/classes/com/luv2code/springdemo/mvc/HelloWorldController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/build/classes/com/luv2code/springdemo/mvc/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/build/classes/com/luv2code/springdemo/mvc/SillyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/build/classes/com/luv2code/springdemo/mvc/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/build/classes/com/luv2code/springdemo/mvc/StudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/build/classes/com/luv2code/springdemo/mvc/validation/CourseCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/build/classes/com/luv2code/springdemo/mvc/validation/CourseCodeConstraintValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/build/classes/resources/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/src/com/luv2code/springdemo/mvc/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/src/com/luv2code/springdemo/mvc/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/src/com/luv2code/springdemo/mvc/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/src/com/luv2code/springdemo/mvc/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/src/com/luv2code/springdemo/mvc/SillyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/src/com/luv2code/springdemo/mvc/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/src/com/luv2code/springdemo/mvc/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/src/com/luv2code/springdemo/mvc/validation/CourseCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/src/com/luv2code/springdemo/mvc/validation/CourseCodeConstraintValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../springMvcDemo/src/resources/messages.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2sjj5J1YeMKlVmwQ8ucAj8Jccgh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.BankBackendApplication.executor": "Debug",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/mahmoudhasan/programms/backend/projects/bank/bank-app-keycloak-version",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="section-8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="section-8" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BankBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="JWT_SECRET" value=" jxgEQeXHuPq8VdbyYFNkANdudQ53YUn4" />
+      </envs>
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="bank-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fighter.BankBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efcd0f4c-ac2b-41f3-8148-65cdb6ce9681" name="Changes" comment="" />
+      <created>1738975693373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738975693373</updated>
+      <workItem from="1738975694545" duration="18000" />
+      <workItem from="1739227092048" duration="9465000" />
+      <workItem from="1739286186565" duration="87000" />
+      <workItem from="1739286336615" duration="2031000" />
+      <workItem from="1739373587675" duration="15940000" />
+      <workItem from="1739573593921" duration="848000" />
+      <workItem from="1739730835206" duration="8000" />
+      <workItem from="1739731390288" duration="1001000" />
+      <workItem from="1739747251829" duration="11244000" />
+      <workItem from="1739822710387" duration="8410000" />
+      <workItem from="1739924233050" duration="59000" />
+      <workItem from="1739924864006" duration="6546000" />
+      <workItem from="1740620011128" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.3.3/spring-security-core-6.3.3-sources.jar!/org/springframework/security/authorization/AuthorizationResult.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fighter/controller/ContactController.java</url>
+          <line>25</line>
+          <properties class="com.fighter.controller.ContactController" method="saveContactInquiryDetails">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.security.authentication.UsernamePasswordAuthenticationToken" memberName="authorities" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
