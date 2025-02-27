@@ -8,13 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-security-section-8" />
-        <module name="spring-security-section-12" />
+        <module name="bank-app" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="spring-security-section-12" options="-parameters" />
+      <module name="bank-app" options="-parameters" />
       <module name="spring-security-section-8" options="-parameters" />
     </option>
   </component>

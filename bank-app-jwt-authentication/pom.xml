@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fighter</groupId>
-	<artifactId>spring-security-section-12</artifactId>
+	<artifactId>bank-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-security-section-12</name>
+	<name>bank-app</name>
 	<description>security-project</description>
 	<url/>
 	<licenses>

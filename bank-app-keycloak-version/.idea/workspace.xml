@@ -348,61 +348,8 @@
       <change beforePath="$PROJECT_DIR$/../../../java-multithreading/request-params/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../java-multithreading/request-params/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../java-multithreading/request-params/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-section-12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/BankBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fighter/BankBackendApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/config/BankProdUsernamePasswordAuthenticationProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/config/BankUserDetailsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/config/BankUsernamePasswordAuthenticationProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/config/ProjectProdSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fighter/config/ProjectProdSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fighter/config/ProjectSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/constants/ApplicationConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fighter/constants/ApplicationConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fighter/controller/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/controller/BalanceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fighter/controller/BalanceController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/controller/CardsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fighter/controller/CardsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/controller/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fighter/controller/ContactController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/controller/LoansController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fighter/controller/LoansController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fighter/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/filter/AuthoritiesLoggingAfterFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/filter/AuthoritiesLoggingAtFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/filter/JWTTokenGeneratorFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/filter/JWTTokenValidatorFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fighter/filter/RequestValidtationfilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application_prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application_prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application_prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application_prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/BankBackendApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/BankBackendApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/config/BankProdUsernamePasswordAuthenticationProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/config/BankUserDetailsService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/config/BankUsernamePasswordAuthenticationProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/config/ProjectProdSecurityConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/config/ProjectProdSecurityConfig$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/config/ProjectProdSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/config/ProjectProdSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/config/ProjectSecurityConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/config/ProjectSecurityConfig$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/config/ProjectSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/config/ProjectSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/constants/ApplicationConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/constants/ApplicationConstants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/controller/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/controller/AccountController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/controller/BalanceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/controller/BalanceController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/controller/CardsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/controller/CardsController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/controller/ContactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/controller/ContactController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/controller/LoansController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/controller/LoansController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/controller/NoticesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/controller/NoticesController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/events/AuthenticationEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/events/AuthenticationEvents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/events/AuthorizationEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/events/AuthorizationEvents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/filter/AuthoritiesLoggingAfterFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/filter/AuthoritiesLoggingAtFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/filter/JWTTokenGeneratorFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/filter/JWTTokenValidatorFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/filter/RequestValidtationfilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/model/AccountTransactions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/model/AccountTransactions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/model/Accounts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/model/Accounts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/model/Authority.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/model/Authority.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/model/Cards.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/model/Cards.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/model/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/model/Contact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/model/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/model/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/model/Loans.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/model/Loans.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fighter/model/Notice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fighter/model/Notice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-app-jwt-authentication/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bank-app-jwt-authentication/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-app-jwt-authentication/spring-security-section-12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bank-app-jwt-authentication/bank-app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../security-course-madan-reddy/sequential-processing/src/SequentialProcessing.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstAnnotaionRaw/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../servlet-jsp-miss-xing/FirstAnnotaionRaw/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
@@ -679,7 +626,7 @@
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mahmoudhasan/programms/backend/projects/bank/bank-app",
+    "last_opened_file_path": "/home/mahmoudhasan/programms/backend/projects/bank/bank-app-jwt-authentication",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -746,6 +693,7 @@
       <workItem from="1740434319749" duration="11845000" />
       <workItem from="1740539261085" duration="19853000" />
       <workItem from="1740619536741" duration="75000" />
+      <workItem from="1740620498484" duration="63000" />
     </task>
     <servers />
   </component>
