@@ -1,13 +1,25 @@
-# bank-app
+# Spring Security architecture
 
 
-## **Description**
-I used this project to train myself on **Spring Security architecture**, focusing on the key packages, interfaces, and classes that handle authentication and authorization in web applications. It also covers essential security topics such as **CORS, CSRF, JWT, OAuth2, password management, method-level security**, and managing **users, roles, and authorities**.
+## 📌 Description  
 
-## **Features**
-- **Authentication & Authorization** – Manage and control access within your application.
-- **Security Features** – Includes **CORS, CSRF protection**, and **JWT** for stateless authentication.
-- **OAuth2 Integration** – Support for **social login** and other OAuth2-based authentications.
-- **Method-Level Security** – Secure specific methods using annotations like `@Secured` and `@PreAuthorize`.
-- **User & Role Management** – Comprehensive tools for managing **users, roles, and authorities**.
+This project showcases a comprehensive implementation of **Spring Security**, covering essential security mechanisms such as **authentication, authorization, JWT, OAuth2, CORS, CSRF, and role-based access control**. It is designed to demonstrate best practices for securing web applications.  
 
+## 🚀 Features  
+
+### 🔑 Authentication & Authorization  
+- Implements **form-based login, JWT authentication, and OAuth2**.  
+- Secures APIs with **Spring Security’s Resource Server** capabilities.  
+
+### 🔒 Security Features  
+- **CORS & CSRF Protection** to prevent cross-origin attacks.  
+- **Role-Based Access Control (RBAC)** using authorities and permissions.  
+- **Method-Level Security** via `@PreAuthorize`, `@Secured`, and `@RolesAllowed`.  
+
+### 🔗 OAuth2 & Social Login  
+- Integrates with third-party authentication providers.  
+- Supports **identity brokering** and external OAuth2 logins.  
+
+### ⚙️ User & Role Management  
+- Manages **users, roles, and authorities dynamically**.  
+- Uses a **database-backed authentication system**.  
