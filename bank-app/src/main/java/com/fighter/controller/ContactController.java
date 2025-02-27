@@ -2,9 +2,9 @@ package com.fighter.controller;
 
 import com.fighter.model.Contact;
 import com.fighter.repository.ContactRepository;
+import com.fighter.repository.CustomerRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.access.prepost.PostFilter;
-import org.springframework.security.access.prepost.PreFilter;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
@@ -19,6 +19,7 @@ import java.util.Random;
 public class ContactController {
 
     private final ContactRepository contactRepository;
+    private final CustomerRepository customerRepository;
 
     @PostMapping("/contact")
    // @PreFilter("filterObject.contactName != 'Test'")

@@ -2,22 +2,15 @@ package com.fighter.config;
 
 
 import com.fighter.exceptionhandling.CustomAccessDeniedHandler;
-import com.fighter.exceptionhandling.CustomBasicAuthenticationEntryPoint;
-import com.fighter.filter.*;
+import com.fighter.filter.CsrfCookieFilter;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
-import org.springframework.security.authentication.AuthenticationManager;
-import org.springframework.security.authentication.ProviderManager;
-import org.springframework.security.authentication.password.CompromisedPasswordChecker;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.http.SessionCreationPolicy;
-import org.springframework.security.core.userdetails.UserDetailsService;
-import org.springframework.security.crypto.factory.PasswordEncoderFactories;
-import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.security.oauth2.server.resource.authentication.JwtAuthenticationConverter;
 import org.springframework.security.web.SecurityFilterChain;
-import org.springframework.security.web.authentication.password.HaveIBeenPwnedRestApiPasswordChecker;
 import org.springframework.security.web.authentication.www.BasicAuthenticationFilter;
 import org.springframework.security.web.csrf.CookieCsrfTokenRepository;
 import org.springframework.security.web.csrf.CsrfTokenRequestAttributeHandler;
@@ -27,8 +20,6 @@ import org.springframework.web.cors.CorsConfigurationSource;
 import java.util.Arrays;
 import java.util.Collections;
 
-import static org.springframework.security.config.Customizer.withDefaults;
-
 @Configuration
 @Profile("prod")
 public class ProjectProdSecurityConfig {
@@ -36,6 +27,9 @@ public class ProjectProdSecurityConfig {
 
     @Bean
     SecurityFilterChain defaultSecurityFilterChain(HttpSecurity http) throws Exception {
+        JwtAuthenticationConverter jwtAuthenticationConverter = new JwtAuthenticationConverter();
+        jwtAuthenticationConverter.setJwtGrantedAuthoritiesConverter(new KeycloakRoleConverter());
+
 
         CsrfTokenRequestAttributeHandler csrfTokenRequestAttributeHandler = new CsrfTokenRequestAttributeHandler();
         http.sessionManagement(sc->sc.sessionCreationPolicy(SessionCreationPolicy.STATELESS));
@@ -55,12 +49,6 @@ public class ProjectProdSecurityConfig {
                                 "/register" , "/contact" , "/apiLogin")
                         .csrfTokenRepository(CookieCsrfTokenRepository.withHttpOnlyFalse()))
                 .addFilterAfter(new CsrfCookieFilter(), BasicAuthenticationFilter.class)
-                .addFilterBefore(new RequestValidtationfilter() , BasicAuthenticationFilter.class)
-                .addFilterAfter(new AuthoritiesLoggingAfterFilter(), BasicAuthenticationFilter.class)
-                .addFilterAt(new AuthoritiesLoggingAtFilter() , BasicAuthenticationFilter.class)
-                .addFilterBefore(new JWTTokenValidatorFilter() , BasicAuthenticationFilter.class)
-                .addFilterAfter(new JWTTokenGeneratorFilter() , BasicAuthenticationFilter.class)
-
                 .requiresChannel(rcc-> rcc.anyRequest().requiresSecure())
                 .authorizeHttpRequests((requests) ->
                         requests.requestMatchers( "/myAccount" ).hasRole("USER")
@@ -71,8 +59,11 @@ public class ProjectProdSecurityConfig {
                                 .requestMatchers("/notices" , "/contact" , "/error" , "/register"
                                         , "/invalidSession" , "/error", "/test","/custom" , "/apiLogin").permitAll());
 
-        http.formLogin(withDefaults());
-        http.httpBasic( hbc-> hbc.authenticationEntryPoint(new CustomBasicAuthenticationEntryPoint()));
+
+        http.oauth2ResourceServer(osr->
+                osr.jwt(jwt->
+                        jwt.jwtAuthenticationConverter(jwtAuthenticationConverter)));
+
         http.exceptionHandling(ehc->ehc.accessDeniedHandler(new CustomAccessDeniedHandler()));
 
 
@@ -81,31 +72,7 @@ public class ProjectProdSecurityConfig {
     }
 
 
-//    @Bean
-//    public UserDetailsService userDetailsService(DataSource dataSource) {
-//        return new JdbcUserDetailsManager(dataSource);
-//    }
-//
 
-    @Bean
-    public PasswordEncoder passwordEncoder() {
-        return PasswordEncoderFactories.createDelegatingPasswordEncoder();
-    }
-
-
-    @Bean public CompromisedPasswordChecker compromisedPasswordChecker() {
-        return new HaveIBeenPwnedRestApiPasswordChecker();
-    }
-
-    @Bean
-    public AuthenticationManager authenticationManager(UserDetailsService userDetailsService , PasswordEncoder encoder) throws Exception {
-
-        BankProdUsernamePasswordAuthenticationProvider authenticationProvider = new BankProdUsernamePasswordAuthenticationProvider(userDetailsService, encoder);
-        ProviderManager providerManager = new ProviderManager(authenticationProvider);
-        providerManager.setEraseCredentialsAfterAuthentication(false);
-        return providerManager;
-
-    }
 
 
 }
